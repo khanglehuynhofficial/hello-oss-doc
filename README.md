@@ -1,4 +1,3 @@
-cd ~/hello-oss-doc
 cat << 'EOF' > README.md
 # hello-oss-doc
 Một dự án mẫu viết bằng C nhằm mục đích làm quen với quy trình mã nguồn mở (OSS).
