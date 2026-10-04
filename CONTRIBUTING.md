@@ -1,6 +1,6 @@
 # Hướng dẫn đóng góp (Contributing Guide)
 
-Cảm ơn bạn đã quan tâm và muốn đóng góp cho dự án **Hello OSS**! Để đảm bảo dự án hoạt động nhất quán, vui lòng đọc và làm theo các hướng dẫn bên dưới.
+Cảm ơn bạn đã quan tâm và muốn đóng góp cho dự án **Hello OSS-DOC**! Để đảm bảo dự án hoạt động nhất quán, vui lòng đọc và làm theo các hướng dẫn bên dưới.
 
 ## Cách báo lỗi (Issue)
 Nếu bạn phát hiện ra lỗi hoặc muốn đề xuất tính năng mới, hãy tạo một **Issue** trên GitHub theo các bước:
